@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-brands-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-duotone-900.woff2);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-light-300.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-regular-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-solid-900.woff2);
+    font-weight: 900;
+}
+
+
+.fab {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fad {
+    font-family: 'FontAwesome';
+    font-weight: 900;
+    font-style: normal;
+}
+
+.fal {
+    font-family: 'FontAwesome';
+    font-weight: 300;
+    font-style: normal;
+}
+
+.far {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fas {
+    font-family: 'FontAwesome';
+    font-weight: 900;
+    font-style: normal;
+}

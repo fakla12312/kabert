@@ -1,0 +1,175 @@
+@import url(font.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1700px;
+    padding: 0 15px;
+}
+
+.container2{
+    max-width: 1320px;
+}
+
+.sec1 {
+    height: 100%;
+    background: url(../img/sidit4.JPEG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.vnutri {
+    display: flex;
+    justify-content: center;
+}
+
+.sidit {
+    height: 100%;
+    width: 100%;
+}
+
+.bert {
+    text-align: center;
+}
+
+.h1 {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(234, 199, 133);
+    font-size: 90px;
+}
+
+.h2 {
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(234, 199, 133);
+    font-size: 35px;
+}
+
+.links_div {
+    width: max-content;
+    padding-top: 15%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.links_imgs {
+    height: auto;
+    width: 60px;
+}
+
+.link_mini_div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.links_a {
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.podarok {
+    display: flex;
+    justify-content: right;
+    margin-top: -100px;
+}
+
+.podardiv {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.podarokimg {
+    width: 100px;
+    height: auto;
+}
+
+.podarok_p {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(234, 199, 133);
+    font-size: 40px;
+}
+
+.podarok_p2 {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(234, 199, 133);
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.sec1_mini {
+    display: none;
+}
+
+.podarok2 {
+    display: none;
+}
+
+.sec2 {
+    padding: 100px 0 100px;
+    background: url(../img/IMG_0822.JPG);
+}
+
+.peshka {
+    font-size: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(234, 199, 133);
+}
+
+.h2shka {
+    font-size: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+}
+
+.s2_div2 {
+    margin: 50px 0 70px;
+}
+
+.obo_mne_beetw {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.obo_mne_beetw2 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.peshkann{
+    color: rgb(0, 255, 76);
+}
+
+.omb{
+    margin-bottom: 20px;
+}

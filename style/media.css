@@ -1,0 +1,163 @@
+@media(max-width: 1700px) {
+
+    .container {
+        max-width: 1500px;
+    }
+
+    .container2{
+        max-width: 1200px;
+    }
+
+    .podarok_p{
+        font-size: 30px;
+    }
+
+    .podarok_p2{
+        font-size: 30px;
+    }
+
+    .podardiv{
+        gap: 5px;
+    }
+
+}
+
+
+@media(max-width: 1400px) {
+
+    .container {
+        max-width: 1140px;
+    }
+    
+    .sec1 {
+        background: none;
+    }
+
+    .sec1{
+        background: url(../img/sidit4_2.JPG);
+        background-size:cover;
+        background-repeat: no-repeat;
+        padding-top: 400px;
+        position: relative;
+    }
+
+    .bert{
+        margin-top: -400px;
+    }
+
+    .podarok{
+        position: absolute;
+        top: 390px;
+        left: 100px;
+
+    }
+
+    .links_div{
+        padding-bottom: 200px;
+    }
+
+
+
+}
+
+@media(max-width: 1200px) {
+
+    .container {
+        max-width: 960px;
+    }
+
+    .sec1{
+        background: url(../img/siditvertical.JPG);
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+
+}
+
+@media(max-width: 992px) {
+
+    .container {
+        max-width: 720px;
+    }
+
+    .sec1{
+        background: url(../img/IMG_0822.JPG);
+    }
+
+    .center{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .podarok{
+        display: none;
+    }
+
+    .sec1{
+        padding: 0;
+    }
+
+    .vnutri{
+        display: none;
+    }
+
+    .podarok2{
+        display: block !important;
+    }
+
+    .bert2{
+        margin: 0;
+        margin-bottom: 70px;
+        text-align: center;
+    }
+
+    .links_div{
+        display: flex;
+        justify-content: center;
+    }
+
+    .link_mini_div{
+        display: flex;
+        justify-content: center;
+    }
+
+    .podardiv{
+        display: flex;
+        align-items: center;
+    }
+
+}
+
+@media(max-width: 768px) {
+
+    .container {
+        max-width: 540px;
+    }
+
+    .h1{
+        font-size: 50px;
+    }
+
+    .h2{
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+
+    .container {
+        max-width: 100%;
+    }
+
+    .h2shka{
+        font-size: 30px;
+    }
+    
+}
+
+
+@media(max-width: 450px) {}
+
+
+@media(max-width: 400px) {}
