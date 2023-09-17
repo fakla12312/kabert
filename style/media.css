@@ -4,19 +4,19 @@
         max-width: 1500px;
     }
 
-    .container2{
+    .container2 {
         max-width: 1200px;
     }
 
-    .podarok_p{
+    .podarok_p {
         font-size: 30px;
     }
 
-    .podarok_p2{
+    .podarok_p2 {
         font-size: 30px;
     }
 
-    .podardiv{
+    .podardiv {
         gap: 5px;
     }
 
@@ -28,31 +28,31 @@
     .container {
         max-width: 1140px;
     }
-    
+
     .sec1 {
         background: none;
     }
 
-    .sec1{
+    .sec1 {
         background: url(../img/sidit4_2.JPG);
-        background-size:cover;
+        background-size: cover;
         background-repeat: no-repeat;
         padding-top: 400px;
         position: relative;
     }
 
-    .bert{
+    .bert {
         margin-top: -400px;
     }
 
-    .podarok{
+    .podarok {
         position: absolute;
         top: 390px;
         left: 100px;
 
     }
 
-    .links_div{
+    .links_div {
         padding-bottom: 200px;
     }
 
@@ -66,9 +66,9 @@
         max-width: 960px;
     }
 
-    .sec1{
+    .sec1 {
         background: url(../img/siditvertical.JPG);
-        background-size:cover;
+        background-size: cover;
         background-repeat: no-repeat;
     }
 
@@ -80,51 +80,64 @@
         max-width: 720px;
     }
 
-    .sec1{
+    .sec1 {
         background: url(../img/IMG_0822.JPG);
+       padding-bottom: 0;
     }
 
-    .center{
+    .links_div {
+        padding-bottom: 50px;
+    }
+
+    .center {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
-    .podarok{
+    .podarok {
         display: none;
     }
 
-    .sec1{
+    .sec1 {
         padding: 0;
     }
 
-    .vnutri{
+    .vnutri {
         display: none;
     }
 
-    .podarok2{
+    .podarok2 {
         display: block !important;
     }
 
-    .bert2{
+    .bert2 {
         margin: 0;
         margin-bottom: 70px;
         text-align: center;
     }
 
-    .links_div{
+    .links_div {
         display: flex;
         justify-content: center;
     }
 
-    .link_mini_div{
+    .link_mini_div {
         display: flex;
-        justify-content: center;
+        justify-content: left;
     }
 
-    .podardiv{
+    .links_nad_div {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        margin: 0 auto;
+    }
+
+    .podardiv {
         display: flex;
         align-items: center;
+        margin-top: 45px;
     }
 
 }
@@ -135,11 +148,11 @@
         max-width: 540px;
     }
 
-    .h1{
+    .h1 {
         font-size: 50px;
     }
 
-    .h2{
+    .h2 {
         font-size: 20px;
     }
 }
@@ -150,10 +163,10 @@
         max-width: 100%;
     }
 
-    .h2shka{
+    .h2shka {
         font-size: 30px;
     }
-    
+
 }
 
 
