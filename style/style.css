@@ -41,8 +41,8 @@
 }
 
 .h1 {
-    font-family: Montserrat;
-    font-weight: 400;
+    font-family: Open Sans;
+    font-weight: 500;
     font-style: normal;
     color: rgb(234, 199, 133);
     font-size: 90px;
@@ -142,9 +142,13 @@
     color: rgb(234, 199, 133);
 }
 
+.peshkadva{
+    margin-top: 20px;
+}
+
 .h2shka {
     font-size: 40px;
-    font-family: Montserrat;
+    font-family: Mooli;
     font-style: normal;
     font-weight: 400;
     color: white;
@@ -167,7 +171,17 @@
 }
 
 .peshkann{
-    color: rgb(0, 255, 76);
+    color: black;
+    background-color:rgb(234, 199, 133);
+    padding: 20px;
+    border-radius: 20px;
+    max-width: max-content;
+    flex-wrap: wrap;
+}
+
+.s2_div3{
+    display: flex;
+    justify-content: center;
 }
 
 .omb{

@@ -10,6 +10,19 @@
     font-weight: 400;
 }
 
+@font-face {
+    font-family: 'Mooli';
+    src: url(../fonts/Mooli-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-Medium.ttf);
+    font-weight: 500;
+}
+
+
 
 
 
